@@ -1,0 +1,454 @@
+order_id,date,customer,region,product,quantity,unit_price,sales_rep
+SO-10001,2026-07-01,Granite Builders,East,Valve Kit V5,21,163.74,Sara
+SO-10002,2026-07-01,Juno Textiles,North,Sensor Pack S3,2,454.42,Tom
+SO-10003,2026-07-01,Borealis Foods,North,Industrial Pump X200,14,1180.36,Tom
+SO-10004,2026-07-01,Iris Energy,West,Industrial Pump X200,14,1094.19,Sara
+SO-10005,2026-07-01,Juno Textiles,North,Valve Kit V5,2,182.78,Lina
+SO-10006,2026-07-01,Delta Logistics,South,Industrial Pump X200,2,1213.6,Tom
+SO-10007,2026-07-01,Granite Builders,East,Sensor Pack S3,5,423.42,Ken
+SO-10008,2026-07-02,Juno Textiles,North,Industrial Pump X200,19,1233.34,Ken
+SO-10009,2026-07-02,Iris Energy,West,Industrial Pump X200,23,1095.07,Sara
+SO-10010,2026-07-02,Delta Logistics,South,Hose Set H10,16,93.25,Lina
+SO-10011,2026-07-02,Helix Pharma,West,Sensor Pack S3,19,455.57,Ken
+SO-10012,2026-07-03,Cobalt Mining,West,Valve Kit V5,23,190.07,Sara
+SO-10013,2026-07-03,Evergreen Farms,South,Hose Set H10,17,89.91,Ken
+SO-10014,2026-07-03,Helix Pharma,West,Filter F8,10,61.31,Sara
+SO-10015,2026-07-03,Iris Energy,West,Industrial Pump X200,14,1119.59,Ken
+SO-10016,2026-07-03,Helix Pharma,West,Valve Kit V5,14,163.41,Sara
+SO-10017,2026-07-03,Juno Textiles,North,Hose Set H10,11,87.12,Ken
+SO-10018,2026-07-04,Juno Textiles,North,Control Unit C1,15,2284.38,Sara
+SO-10019,2026-07-04,Helix Pharma,West,Sensor Pack S3,23,433.79,Sara
+SO-10020,2026-07-05,Evergreen Farms,South,Filter F8,21,60.94,Lina
+SO-10021,2026-07-05,Granite Builders,East,Sensor Pack S3,22,407.15,Lina
+SO-10022,2026-07-06,Juno Textiles,North,Valve Kit V5,4,179.77,Tom
+SO-10023,2026-07-06,Cobalt Mining,West,Sensor Pack S3,24,398.8,Lina
+SO-10024,2026-07-06,Borealis Foods,North,Control Unit C1,6,2474.59,Ken
+SO-10025,2026-07-06,Granite Builders,East,Valve Kit V5,18,172.02,Lina
+SO-10026,2026-07-06,Granite Builders,East,Sensor Pack S3,8,390.68,Tom
+SO-10027,2026-07-06,Delta Logistics,South,Valve Kit V5,22,170.4,Lina
+SO-10028,2026-07-06,Cobalt Mining,West,Hose Set H10,9,86.07,Tom
+SO-10029,2026-07-07,Fulton Steel,East,Hose Set H10,20,91.19,Tom
+SO-10030,2026-07-07,Iris Energy,West,Filter F8,20,61.86,Sara
+SO-10031,2026-07-07,Iris Energy,West,Control Unit C1,13,2449.03,Lina
+SO-10032,2026-07-07,Helix Pharma,West,Industrial Pump X200,21,1176.11,Tom
+SO-10033,2026-07-07,Delta Logistics,South,Industrial Pump X200,15,1118.95,Ken
+SO-10034,2026-07-07,Acme Manufacturing,North,Hose Set H10,4,81.0,Tom
+SO-10035,2026-07-07,Borealis Foods,North,Hose Set H10,12,92.05,Sara
+SO-10036,2026-07-07,Juno Textiles,North,Valve Kit V5,13,167.35,Ken
+SO-10037,2026-07-08,Fulton Steel,East,Hose Set H10,16,83.21,Lina
+SO-10038,2026-07-08,Helix Pharma,West,Control Unit C1,16,2405.93,Tom
+SO-10039,2026-07-08,Fulton Steel,East,Industrial Pump X200,24,1143.54,Tom
+SO-10040,2026-07-08,Acme Manufacturing,North,Hose Set H10,7,98.12,Ken
+SO-10041,2026-07-08,Iris Energy,West,Valve Kit V5,1,189.29,Ken
+SO-10042,2026-07-08,Borealis Foods,North,Filter F8,23,64.15,Ken
+SO-10043,2026-07-08,Fulton Steel,East,Valve Kit V5,25,170.02,Ken
+SO-10044,2026-07-09,Delta Logistics,South,Hose Set H10,8,95.73,Tom
+SO-10045,2026-07-09,Iris Energy,West,Valve Kit V5,16,174.8,Sara
+SO-10046,2026-07-09,Evergreen Farms,South,Industrial Pump X200,16,1142.2,Ken
+SO-10047,2026-07-09,Fulton Steel,East,Control Unit C1,12,2290.27,Sara
+SO-10048,2026-07-09,Helix Pharma,West,Valve Kit V5,7,174.16,Lina
+SO-10049,2026-07-10,Fulton Steel,East,Control Unit C1,21,2292.39,Sara
+SO-10050,2026-07-10,Delta Logistics,South,Control Unit C1,16,2694.51,Lina
+SO-10051,2026-07-11,Borealis Foods,North,Sensor Pack S3,24,411.25,Lina
+SO-10052,2026-07-11,Borealis Foods,North,Filter F8,24,55.91,Tom
+SO-10053,2026-07-13,Helix Pharma,West,Hose Set H10,21,83.63,Lina
+SO-10054,2026-07-13,Fulton Steel,East,Filter F8,5,60.58,Tom
+SO-10055,2026-07-13,Acme Manufacturing,North,Industrial Pump X200,24,1235.92,Tom
+SO-10056,2026-07-13,Delta Logistics,South,Control Unit C1,7,2264.0,Tom
+SO-10057,2026-07-14,Delta Logistics,South,Hose Set H10,25,91.56,Ken
+SO-10058,2026-07-14,Granite Builders,East,Hose Set H10,5,82.1,Ken
+SO-10059,2026-07-14,Juno Textiles,North,Control Unit C1,17,2460.31,Tom
+SO-10060,2026-07-14,Cobalt Mining,West,Hose Set H10,17,90.19,Lina
+SO-10061,2026-07-14,Juno Textiles,North,Valve Kit V5,1,189.94,Tom
+SO-10062,2026-07-14,Cobalt Mining,West,Valve Kit V5,16,184.29,Sara
+SO-10063,2026-07-15,Iris Energy,West,Sensor Pack S3,17,424.66,Sara
+SO-10064,2026-07-15,Acme Manufacturing,North,Hose Set H10,8,84.44,Sara
+SO-10065,2026-07-16,Helix Pharma,West,Hose Set H10,18,81.5,Sara
+SO-10066,2026-07-16,Fulton Steel,East,Control Unit C1,20,2736.68,Tom
+SO-10067,2026-07-16,Evergreen Farms,South,Filter F8,15,60.1,Lina
+SO-10068,2026-07-17,Iris Energy,West,Filter F8,9,65.07,Tom
+SO-10069,2026-07-17,Cobalt Mining,West,Control Unit C1,14,2310.81,Lina
+SO-10070,2026-07-17,Borealis Foods,North,Sensor Pack S3,22,398.21,Sara
+SO-10071,2026-07-17,Evergreen Farms,South,Valve Kit V5,4,194.29,Tom
+SO-10072,2026-07-17,Fulton Steel,East,Filter F8,5,57.04,Tom
+SO-10073,2026-07-18,Borealis Foods,North,Valve Kit V5,13,193.86,Tom
+SO-10074,2026-07-19,Cobalt Mining,West,Valve Kit V5,23,177.53,Lina
+SO-10075,2026-07-19,Granite Builders,East,Sensor Pack S3,7,407.96,Sara
+SO-10076,2026-07-20,Fulton Steel,East,Industrial Pump X200,18,1190.08,Sara
+SO-10077,2026-07-20,Fulton Steel,East,Control Unit C1,17,2561.96,Sara
+SO-10078,2026-07-20,Delta Logistics,South,Industrial Pump X200,4,1100.17,Ken
+SO-10079,2026-07-20,Cobalt Mining,West,Industrial Pump X200,9,1261.39,Lina
+SO-10080,2026-07-20,Evergreen Farms,South,Filter F8,13,55.79,Lina
+SO-10081,2026-07-20,Fulton Steel,East,Filter F8,3,57.35,Tom
+SO-10082,2026-07-20,Borealis Foods,North,Control Unit C1,9,2719.17,Sara
+SO-10083,2026-07-21,Juno Textiles,North,Industrial Pump X200,8,1095.99,Sara
+SO-10084,2026-07-21,Acme Manufacturing,North,Control Unit C1,11,2747.15,Lina
+SO-10085,2026-07-21,Juno Textiles,North,Sensor Pack S3,5,381.63,Tom
+SO-10086,2026-07-21,Cobalt Mining,West,Industrial Pump X200,9,1092.09,Tom
+SO-10087,2026-07-21,Evergreen Farms,South,Sensor Pack S3,17,441.8,Ken
+SO-10088,2026-07-21,Iris Energy,West,Control Unit C1,22,2338.95,Ken
+SO-10089,2026-07-22,Acme Manufacturing,North,Sensor Pack S3,1,379.55,Tom
+SO-10090,2026-07-22,Helix Pharma,West,Hose Set H10,8,97.82,Sara
+SO-10091,2026-07-23,Helix Pharma,West,Filter F8,18,64.02,Lina
+SO-10092,2026-07-23,Evergreen Farms,South,Hose Set H10,23,84.87,Tom
+SO-10093,2026-07-23,Delta Logistics,South,Sensor Pack S3,23,439.22,Tom
+SO-10094,2026-07-23,Fulton Steel,East,Control Unit C1,2,2668.49,Sara
+SO-10095,2026-07-23,Evergreen Farms,South,Industrial Pump X200,14,1119.18,Sara
+SO-10096,2026-07-23,Granite Builders,East,Filter F8,17,62.05,Ken
+SO-10097,2026-07-23,Delta Logistics,South,Hose Set H10,23,86.28,Lina
+SO-10098,2026-07-23,Cobalt Mining,West,Valve Kit V5,9,178.05,Ken
+SO-10099,2026-07-24,Iris Energy,West,Sensor Pack S3,11,398.53,Ken
+SO-10100,2026-07-24,Fulton Steel,East,Valve Kit V5,6,162.04,Lina
+SO-10101,2026-07-24,Helix Pharma,West,Industrial Pump X200,9,1200.66,Tom
+SO-10102,2026-07-24,Iris Energy,West,Valve Kit V5,25,162.18,Ken
+SO-10103,2026-07-24,Cobalt Mining,West,Industrial Pump X200,13,1220.83,Lina
+SO-10104,2026-07-24,Evergreen Farms,South,Industrial Pump X200,10,1231.12,Sara
+SO-10105,2026-07-24,Iris Energy,West,Hose Set H10,25,83.79,Lina
+SO-10106,2026-07-25,Helix Pharma,West,Filter F8,5,57.41,Tom
+SO-10107,2026-07-27,Iris Energy,West,Filter F8,5,64.92,Sara
+SO-10108,2026-07-27,Juno Textiles,North,Filter F8,23,62.19,Tom
+SO-10109,2026-07-27,Acme Manufacturing,North,Industrial Pump X200,2,1111.94,Ken
+SO-10110,2026-07-27,Granite Builders,East,Industrial Pump X200,15,1214.05,Sara
+SO-10111,2026-07-27,Iris Energy,West,Filter F8,22,56.93,Ken
+SO-10112,2026-07-27,Helix Pharma,West,Industrial Pump X200,3,1259.58,Sara
+SO-10113,2026-07-27,Iris Energy,West,Filter F8,3,62.95,Lina
+SO-10114,2026-07-27,Borealis Foods,North,Sensor Pack S3,9,397.72,Tom
+SO-10115,2026-07-28,Helix Pharma,West,Filter F8,16,64.15,Sara
+SO-10116,2026-07-28,Evergreen Farms,South,Control Unit C1,25,2273.37,Tom
+SO-10117,2026-07-28,Juno Textiles,North,Industrial Pump X200,5,1159.63,Ken
+SO-10118,2026-07-28,Juno Textiles,North,Hose Set H10,5,81.22,Sara
+SO-10119,2026-07-28,Evergreen Farms,South,Control Unit C1,22,2299.76,Tom
+SO-10120,2026-07-29,Iris Energy,West,Sensor Pack S3,10,417.03,Lina
+SO-10121,2026-07-29,Iris Energy,West,Industrial Pump X200,7,1154.8,Sara
+SO-10122,2026-07-29,Acme Manufacturing,North,Control Unit C1,10,2479.49,Lina
+SO-10123,2026-07-29,Granite Builders,East,Sensor Pack S3,7,454.99,Tom
+SO-10124,2026-07-29,Juno Textiles,North,Industrial Pump X200,3,1114.02,Ken
+SO-10125,2026-07-29,Cobalt Mining,West,Sensor Pack S3,20,446.9,Ken
+SO-10126,2026-07-29,Fulton Steel,East,Industrial Pump X200,8,1199.49,Lina
+SO-10127,2026-07-29,Acme Manufacturing,North,Control Unit C1,6,2251.8,Lina
+SO-10128,2026-07-29,Helix Pharma,West,Filter F8,13,57.62,Tom
+SO-10129,2026-07-30,Granite Builders,East,Sensor Pack S3,11,388.16,Ken
+SO-10130,2026-07-30,Fulton Steel,East,Industrial Pump X200,25,1161.19,Lina
+SO-10131,2026-07-30,Delta Logistics,South,Industrial Pump X200,23,1082.81,Ken
+SO-10132,2026-07-30,Fulton Steel,East,Sensor Pack S3,3,411.0,Sara
+SO-10133,2026-07-30,Granite Builders,East,Sensor Pack S3,25,401.11,Sara
+SO-10134,2026-07-30,Borealis Foods,North,Sensor Pack S3,2,448.11,Ken
+SO-10135,2026-07-30,Cobalt Mining,West,Filter F8,8,65.65,Lina
+SO-10136,2026-07-30,Fulton Steel,East,Hose Set H10,7,94.92,Lina
+SO-10137,2026-07-31,Granite Builders,East,Filter F8,18,60.59,Sara
+SO-10138,2026-07-31,Granite Builders,East,Industrial Pump X200,15,1227.58,Tom
+SO-10139,2026-08-01,Helix Pharma,West,Sensor Pack S3,2,454.6,Tom
+SO-10140,2026-08-01,Helix Pharma,West,Valve Kit V5,14,174.37,Ken
+SO-10141,2026-08-02,Evergreen Farms,South,Filter F8,13,61.87,Ken
+SO-10142,2026-08-03,Granite Builders,East,Hose Set H10,4,84.01,Tom
+SO-10143,2026-08-03,Delta Logistics,South,Industrial Pump X200,17,1297.43,Lina
+SO-10144,2026-08-03,Delta Logistics,South,Hose Set H10,15,97.31,Lina
+SO-10145,2026-08-03,Cobalt Mining,West,Control Unit C1,18,2346.2,Sara
+SO-10146,2026-08-03,Fulton Steel,East,Valve Kit V5,18,165.28,Tom
+SO-10147,2026-08-03,Evergreen Farms,South,Sensor Pack S3,19,394.98,Sara
+SO-10148,2026-08-03,Granite Builders,East,Filter F8,13,58.97,Tom
+SO-10149,2026-08-03,Evergreen Farms,South,Control Unit C1,11,2626.06,Lina
+SO-10150,2026-08-03,Juno Textiles,North,Sensor Pack S3,12,388.57,Tom
+SO-10151,2026-08-04,Delta Logistics,South,Sensor Pack S3,13,411.58,Lina
+SO-10152,2026-08-04,Evergreen Farms,South,Control Unit C1,1,2313.62,Lina
+SO-10153,2026-08-04,Helix Pharma,West,Filter F8,19,59.88,Sara
+SO-10154,2026-08-05,Helix Pharma,West,Hose Set H10,15,85.47,Sara
+SO-10155,2026-08-05,Cobalt Mining,West,Valve Kit V5,5,180.81,Sara
+SO-10156,2026-08-05,Helix Pharma,West,Filter F8,3,60.62,Sara
+SO-10157,2026-08-05,Cobalt Mining,West,Industrial Pump X200,8,1216.65,Sara
+SO-10158,2026-08-05,Evergreen Farms,South,Filter F8,5,61.52,Lina
+SO-10159,2026-08-05,Borealis Foods,North,Filter F8,4,54.84,Tom
+SO-10160,2026-08-05,Evergreen Farms,South,Control Unit C1,8,2645.24,Sara
+SO-10161,2026-08-05,Iris Energy,West,Industrial Pump X200,10,1319.13,Ken
+SO-10162,2026-08-06,Delta Logistics,South,Filter F8,16,60.32,Tom
+SO-10163,2026-08-06,Granite Builders,East,Industrial Pump X200,23,1235.92,Sara
+SO-10164,2026-08-06,Delta Logistics,South,Industrial Pump X200,16,1292.36,Lina
+SO-10165,2026-08-06,Evergreen Farms,South,Industrial Pump X200,8,1240.17,Ken
+SO-10166,2026-08-06,Helix Pharma,West,Valve Kit V5,2,187.05,Lina
+SO-10167,2026-08-06,Granite Builders,East,Sensor Pack S3,7,378.57,Ken
+SO-10168,2026-08-06,Iris Energy,West,Filter F8,3,56.46,Tom
+SO-10169,2026-08-07,Delta Logistics,South,Valve Kit V5,15,169.97,Ken
+SO-10170,2026-08-07,Juno Textiles,North,Industrial Pump X200,16,1226.42,Tom
+SO-10171,2026-08-07,Granite Builders,East,Control Unit C1,22,2278.21,Tom
+SO-10172,2026-08-07,Acme Manufacturing,North,Control Unit C1,7,2261.81,Tom
+SO-10173,2026-08-07,Acme Manufacturing,North,Control Unit C1,23,2280.07,Lina
+SO-10174,2026-08-07,Fulton Steel,East,Control Unit C1,24,2306.6,Sara
+SO-10175,2026-08-09,Cobalt Mining,West,Valve Kit V5,21,195.69,Lina
+SO-10176,2026-08-10,Granite Builders,East,Sensor Pack S3,12,460.74,Lina
+SO-10177,2026-08-10,Borealis Foods,North,Valve Kit V5,1,164.82,Sara
+SO-10178,2026-08-11,Borealis Foods,North,Control Unit C1,18,2732.14,Tom
+SO-10179,2026-08-11,Fulton Steel,East,Control Unit C1,25,2660.79,Lina
+SO-10180,2026-08-11,Acme Manufacturing,North,Industrial Pump X200,23,1193.63,Ken
+SO-10181,2026-08-11,Helix Pharma,West,Hose Set H10,7,86.82,Lina
+SO-10182,2026-08-11,Granite Builders,East,Industrial Pump X200,8,1274.84,Lina
+SO-10183,2026-08-11,Granite Builders,East,Industrial Pump X200,2,1191.37,Sara
+SO-10184,2026-08-11,Delta Logistics,South,Sensor Pack S3,24,383.28,Ken
+SO-10185,2026-08-12,Fulton Steel,East,Sensor Pack S3,20,381.66,Ken
+SO-10186,2026-08-12,Evergreen Farms,South,Sensor Pack S3,1,438.61,Sara
+SO-10187,2026-08-12,Delta Logistics,South,Industrial Pump X200,4,1194.05,Lina
+SO-10188,2026-08-12,Evergreen Farms,South,Control Unit C1,14,2657.4,Tom
+SO-10189,2026-08-12,Cobalt Mining,West,Control Unit C1,1,2651.28,Ken
+SO-10190,2026-08-12,Cobalt Mining,West,Filter F8,20,56.83,Ken
+SO-10191,2026-08-12,Fulton Steel,East,Control Unit C1,20,2289.51,Tom
+SO-10192,2026-08-13,Delta Logistics,South,Valve Kit V5,14,164.33,Sara
+SO-10193,2026-08-13,Iris Energy,West,Control Unit C1,18,2412.88,Lina
+SO-10194,2026-08-13,Borealis Foods,North,Industrial Pump X200,9,1229.9,Tom
+SO-10195,2026-08-13,Granite Builders,East,Industrial Pump X200,16,1317.22,Lina
+SO-10196,2026-08-13,Delta Logistics,South,Valve Kit V5,5,177.01,Tom
+SO-10197,2026-08-13,Iris Energy,West,Filter F8,25,61.97,Sara
+SO-10198,2026-08-13,Evergreen Farms,South,Sensor Pack S3,9,425.62,Ken
+SO-10199,2026-08-13,Evergreen Farms,South,Sensor Pack S3,7,414.91,Tom
+SO-10200,2026-08-14,Cobalt Mining,West,Valve Kit V5,10,193.83,Tom
+SO-10201,2026-08-14,Borealis Foods,North,Sensor Pack S3,13,399.14,Tom
+SO-10202,2026-08-14,Iris Energy,West,Hose Set H10,8,92.69,Sara
+SO-10203,2026-08-14,Helix Pharma,West,Filter F8,2,55.23,Lina
+SO-10204,2026-08-14,Helix Pharma,West,Valve Kit V5,12,163.45,Ken
+SO-10205,2026-08-17,Juno Textiles,North,Valve Kit V5,19,168.99,Sara
+SO-10206,2026-08-17,Iris Energy,West,Sensor Pack S3,6,415.73,Ken
+SO-10207,2026-08-18,Juno Textiles,North,Industrial Pump X200,23,1228.79,Tom
+SO-10208,2026-08-18,Fulton Steel,East,Industrial Pump X200,11,1113.93,Tom
+SO-10209,2026-08-19,Juno Textiles,North,Industrial Pump X200,24,1236.39,Tom
+SO-10210,2026-08-19,Fulton Steel,East,Industrial Pump X200,14,1242.8,Tom
+SO-10211,2026-08-19,Evergreen Farms,South,Hose Set H10,3,84.66,Lina
+SO-10212,2026-08-19,Helix Pharma,West,Hose Set H10,3,88.35,Lina
+SO-10213,2026-08-19,Iris Energy,West,Filter F8,5,61.67,Sara
+SO-10214,2026-08-19,Cobalt Mining,West,Filter F8,13,62.34,Lina
+SO-10215,2026-08-20,Evergreen Farms,South,Filter F8,14,65.44,Ken
+SO-10216,2026-08-20,Juno Textiles,North,Filter F8,12,58.97,Sara
+SO-10217,2026-08-20,Delta Logistics,South,Sensor Pack S3,13,439.15,Tom
+SO-10218,2026-08-20,Granite Builders,East,Industrial Pump X200,6,1181.7,Sara
+SO-10219,2026-08-20,Juno Textiles,North,Control Unit C1,12,2480.45,Tom
+SO-10220,2026-08-20,Acme Manufacturing,North,Valve Kit V5,2,181.86,Lina
+SO-10221,2026-08-21,Juno Textiles,North,Hose Set H10,12,94.27,Tom
+SO-10222,2026-08-21,Fulton Steel,East,Valve Kit V5,10,167.83,Tom
+SO-10223,2026-08-21,Borealis Foods,North,Industrial Pump X200,13,1197.72,Tom
+SO-10224,2026-08-22,Acme Manufacturing,North,Valve Kit V5,16,173.32,Lina
+SO-10225,2026-08-24,Delta Logistics,South,Filter F8,20,58.85,Tom
+SO-10226,2026-08-24,Cobalt Mining,West,Control Unit C1,19,2359.07,Lina
+SO-10227,2026-08-24,Cobalt Mining,West,Hose Set H10,13,87.47,Tom
+SO-10228,2026-08-24,Delta Logistics,South,Valve Kit V5,2,193.82,Sara
+SO-10229,2026-08-25,Granite Builders,East,Industrial Pump X200,20,1189.38,Ken
+SO-10230,2026-08-25,Granite Builders,East,Filter F8,10,60.99,Lina
+SO-10231,2026-08-25,Fulton Steel,East,Control Unit C1,15,2501.79,Tom
+SO-10232,2026-08-25,Acme Manufacturing,North,Industrial Pump X200,20,1316.67,Lina
+SO-10233,2026-08-25,Helix Pharma,West,Valve Kit V5,25,184.27,Lina
+SO-10234,2026-08-25,Helix Pharma,West,Valve Kit V5,13,165.85,Tom
+SO-10235,2026-08-25,Granite Builders,East,Sensor Pack S3,12,385.7,Lina
+SO-10236,2026-08-26,Cobalt Mining,West,Industrial Pump X200,3,1301.31,Ken
+SO-10237,2026-08-26,Iris Energy,West,Filter F8,3,54.65,Lina
+SO-10238,2026-08-27,Borealis Foods,North,Industrial Pump X200,20,1255.7,Sara
+SO-10239,2026-08-27,Cobalt Mining,West,Valve Kit V5,16,172.36,Tom
+SO-10240,2026-08-27,Delta Logistics,South,Filter F8,3,64.0,Ken
+SO-10241,2026-08-27,Fulton Steel,East,Valve Kit V5,20,171.9,Lina
+SO-10242,2026-08-28,Iris Energy,West,Sensor Pack S3,16,395.5,Ken
+SO-10243,2026-08-28,Iris Energy,West,Hose Set H10,8,86.74,Sara
+SO-10244,2026-08-28,Cobalt Mining,West,Valve Kit V5,13,167.8,Ken
+SO-10245,2026-08-28,Fulton Steel,East,Filter F8,13,56.02,Ken
+SO-10246,2026-08-30,Fulton Steel,East,Industrial Pump X200,15,1213.24,Sara
+SO-10247,2026-08-30,Iris Energy,West,Sensor Pack S3,21,449.95,Ken
+SO-10248,2026-08-31,Fulton Steel,East,Control Unit C1,19,2323.1,Ken
+SO-10249,2026-08-31,Helix Pharma,West,Industrial Pump X200,8,1122.42,Sara
+SO-10250,2026-08-31,Iris Energy,West,Sensor Pack S3,9,404.05,Ken
+SO-10251,2026-08-31,Acme Manufacturing,North,Filter F8,24,54.41,Tom
+SO-10252,2026-08-31,Juno Textiles,North,Sensor Pack S3,21,414.31,Ken
+SO-10253,2026-08-31,Cobalt Mining,West,Industrial Pump X200,16,1134.54,Sara
+SO-10254,2026-09-01,Acme Manufacturing,North,Industrial Pump X200,19,1165.19,Sara
+SO-10255,2026-09-01,Fulton Steel,East,Hose Set H10,18,85.04,Ken
+SO-10256,2026-09-02,Fulton Steel,East,Valve Kit V5,20,191.82,Tom
+SO-10257,2026-09-02,Acme Manufacturing,North,Valve Kit V5,8,187.47,Lina
+SO-10258,2026-09-02,Borealis Foods,North,Industrial Pump X200,21,1114.73,Ken
+SO-10259,2026-09-02,Evergreen Farms,South,Control Unit C1,1,2278.07,Ken
+SO-10260,2026-09-03,Iris Energy,West,Hose Set H10,24,89.87,Tom
+SO-10261,2026-09-03,Acme Manufacturing,North,Industrial Pump X200,2,1207.57,Lina
+SO-10262,2026-09-03,Delta Logistics,South,Valve Kit V5,6,164.1,Sara
+SO-10263,2026-09-03,Juno Textiles,North,Industrial Pump X200,18,1237.63,Tom
+SO-10264,2026-09-03,Granite Builders,East,Valve Kit V5,7,180.66,Lina
+SO-10265,2026-09-03,Cobalt Mining,West,Hose Set H10,17,86.57,Ken
+SO-10266,2026-09-03,Acme Manufacturing,North,Filter F8,24,63.4,Sara
+SO-10267,2026-09-03,Granite Builders,East,Control Unit C1,24,2706.13,Sara
+SO-10268,2026-09-03,Helix Pharma,West,Filter F8,6,56.71,Sara
+SO-10269,2026-09-04,Acme Manufacturing,North,Valve Kit V5,4,174.08,Ken
+SO-10270,2026-09-04,Acme Manufacturing,North,Filter F8,9,61.63,Lina
+SO-10271,2026-09-04,Iris Energy,West,Filter F8,9,57.55,Tom
+SO-10272,2026-09-04,Iris Energy,West,Industrial Pump X200,1,1120.74,Tom
+SO-10273,2026-09-04,Delta Logistics,South,Filter F8,6,62.95,Ken
+SO-10274,2026-09-04,Granite Builders,East,Valve Kit V5,11,183.64,Lina
+SO-10275,2026-09-05,Iris Energy,West,Filter F8,16,59.67,Sara
+SO-10276,2026-09-05,Granite Builders,East,Industrial Pump X200,24,1136.12,Ken
+SO-10277,2026-09-07,Juno Textiles,North,Hose Set H10,3,91.17,Tom
+SO-10278,2026-09-07,Acme Manufacturing,North,Valve Kit V5,1,166.03,Tom
+SO-10279,2026-09-07,Cobalt Mining,West,Sensor Pack S3,23,380.41,Sara
+SO-10280,2026-09-07,Acme Manufacturing,North,Valve Kit V5,23,164.44,Sara
+SO-10281,2026-09-07,Juno Textiles,North,Industrial Pump X200,25,1167.22,Sara
+SO-10282,2026-09-07,Granite Builders,East,Filter F8,4,56.96,Tom
+SO-10283,2026-09-07,Acme Manufacturing,North,Industrial Pump X200,2,1307.82,Sara
+SO-10284,2026-09-07,Evergreen Farms,South,Filter F8,16,55.2,Sara
+SO-10285,2026-09-08,Fulton Steel,East,Sensor Pack S3,11,413.6,Sara
+SO-10286,2026-09-08,Evergreen Farms,South,Sensor Pack S3,10,382.07,Ken
+SO-10287,2026-09-08,Juno Textiles,North,Sensor Pack S3,17,417.99,Ken
+SO-10288,2026-09-08,Acme Manufacturing,North,Hose Set H10,14,81.56,Sara
+SO-10289,2026-09-08,Helix Pharma,West,Sensor Pack S3,23,382.04,Tom
+SO-10290,2026-09-09,Evergreen Farms,South,Hose Set H10,6,88.85,Tom
+SO-10291,2026-09-09,Acme Manufacturing,North,Sensor Pack S3,1,407.22,Sara
+SO-10292,2026-09-09,Cobalt Mining,West,Control Unit C1,16,2546.28,Ken
+SO-10293,2026-09-10,Delta Logistics,South,Sensor Pack S3,23,397.45,Tom
+SO-10294,2026-09-10,Borealis Foods,North,Industrial Pump X200,16,1269.1,Sara
+SO-10295,2026-09-10,Fulton Steel,East,Filter F8,12,55.14,Lina
+SO-10296,2026-09-10,Borealis Foods,North,Filter F8,14,64.66,Sara
+SO-10297,2026-09-11,Evergreen Farms,South,Valve Kit V5,9,177.41,Tom
+SO-10298,2026-09-11,Delta Logistics,South,Control Unit C1,15,2313.44,Sara
+SO-10299,2026-09-11,Juno Textiles,North,Sensor Pack S3,11,421.83,Lina
+SO-10300,2026-09-11,Iris Energy,West,Filter F8,24,57.88,Lina
+SO-10301,2026-09-11,Evergreen Farms,South,Control Unit C1,19,2365.51,Ken
+SO-10302,2026-09-11,Delta Logistics,South,Control Unit C1,17,2345.79,Ken
+SO-10303,2026-09-11,Juno Textiles,North,Filter F8,5,62.68,Tom
+SO-10304,2026-09-12,Juno Textiles,North,Sensor Pack S3,17,407.29,Tom
+SO-10305,2026-09-12,Delta Logistics,South,Sensor Pack S3,9,459.91,Sara
+SO-10306,2026-09-14,Granite Builders,East,Valve Kit V5,5,197.42,Ken
+SO-10307,2026-09-14,Evergreen Farms,South,Filter F8,14,57.29,Sara
+SO-10308,2026-09-14,Borealis Foods,North,Filter F8,9,56.48,Lina
+SO-10309,2026-09-15,Acme Manufacturing,North,Industrial Pump X200,13,1285.04,Lina
+SO-10310,2026-09-15,Delta Logistics,South,Filter F8,17,65.77,Ken
+SO-10311,2026-09-15,Acme Manufacturing,North,Control Unit C1,5,2378.61,Lina
+SO-10312,2026-09-15,Delta Logistics,South,Industrial Pump X200,14,1248.28,Lina
+SO-10313,2026-09-15,Juno Textiles,North,Valve Kit V5,8,186.47,Sara
+SO-10314,2026-09-15,Granite Builders,East,Control Unit C1,11,2379.9,Sara
+SO-10315,2026-09-15,Delta Logistics,South,Control Unit C1,13,2606.58,Tom
+SO-10316,2026-09-15,Granite Builders,East,Sensor Pack S3,16,416.24,Lina
+SO-10317,2026-09-15,Cobalt Mining,West,Hose Set H10,21,86.9,Sara
+SO-10318,2026-09-16,Borealis Foods,North,Control Unit C1,2,2375.61,Tom
+SO-10319,2026-09-16,Delta Logistics,South,Valve Kit V5,17,174.54,Lina
+SO-10320,2026-09-16,Delta Logistics,South,Hose Set H10,23,89.56,Sara
+SO-10321,2026-09-16,Fulton Steel,East,Filter F8,17,58.11,Lina
+SO-10322,2026-09-16,Cobalt Mining,West,Valve Kit V5,13,180.5,Sara
+SO-10323,2026-09-16,Juno Textiles,North,Filter F8,12,61.65,Ken
+SO-10324,2026-09-16,Granite Builders,East,Sensor Pack S3,13,383.17,Sara
+SO-10325,2026-09-16,Granite Builders,East,Control Unit C1,21,2599.13,Ken
+SO-10326,2026-09-17,Delta Logistics,South,Industrial Pump X200,10,1257.95,Tom
+SO-10327,2026-09-17,Helix Pharma,West,Control Unit C1,7,2332.27,Sara
+SO-10328,2026-09-17,Delta Logistics,South,Filter F8,16,61.71,Tom
+SO-10329,2026-09-17,Fulton Steel,East,Valve Kit V5,22,185.0,Lina
+SO-10330,2026-09-17,Evergreen Farms,South,Control Unit C1,25,2524.13,Tom
+SO-10331,2026-09-17,Fulton Steel,East,Control Unit C1,8,2383.71,Lina
+SO-10332,2026-09-18,Cobalt Mining,West,Control Unit C1,16,2251.35,Ken
+SO-10333,2026-09-18,Delta Logistics,South,Sensor Pack S3,21,403.35,Lina
+SO-10334,2026-09-18,Granite Builders,East,Control Unit C1,20,2568.65,Ken
+SO-10335,2026-09-18,Evergreen Farms,South,Valve Kit V5,13,164.05,Ken
+SO-10336,2026-09-18,Iris Energy,West,Valve Kit V5,12,184.79,Sara
+SO-10337,2026-09-18,Acme Manufacturing,North,Filter F8,7,65.42,Ken
+SO-10338,2026-09-19,Borealis Foods,North,Hose Set H10,19,83.57,Tom
+SO-10339,2026-09-21,Cobalt Mining,West,Sensor Pack S3,7,453.94,Tom
+SO-10340,2026-09-21,Juno Textiles,North,Hose Set H10,3,93.03,Ken
+SO-10341,2026-09-21,Helix Pharma,West,Valve Kit V5,23,169.67,Sara
+SO-10342,2026-09-21,Helix Pharma,West,Filter F8,22,64.59,Sara
+SO-10343,2026-09-21,Granite Builders,East,Sensor Pack S3,8,447.47,Lina
+SO-10344,2026-09-21,Iris Energy,West,Control Unit C1,2,2492.19,Tom
+SO-10345,2026-09-21,Helix Pharma,West,Filter F8,8,59.98,Sara
+SO-10346,2026-09-21,Fulton Steel,East,Valve Kit V5,15,187.05,Lina
+SO-10347,2026-09-21,Evergreen Farms,South,Filter F8,15,58.5,Lina
+SO-10348,2026-09-22,Fulton Steel,East,Valve Kit V5,21,185.27,Sara
+SO-10349,2026-09-22,Acme Manufacturing,North,Hose Set H10,22,94.26,Ken
+SO-10350,2026-09-22,Iris Energy,West,Industrial Pump X200,16,1196.32,Tom
+SO-10351,2026-09-23,Granite Builders,East,Valve Kit V5,21,166.57,Sara
+SO-10352,2026-09-23,Fulton Steel,East,Filter F8,11,59.69,Tom
+SO-10353,2026-09-24,Fulton Steel,East,Control Unit C1,14,2375.79,Sara
+SO-10354,2026-09-24,Evergreen Farms,South,Sensor Pack S3,12,447.53,Lina
+SO-10355,2026-09-24,Iris Energy,West,Sensor Pack S3,9,451.33,Ken
+SO-10356,2026-09-24,Helix Pharma,West,Valve Kit V5,4,173.91,Ken
+SO-10357,2026-09-24,Evergreen Farms,South,Filter F8,5,61.04,Sara
+SO-10358,2026-09-24,Granite Builders,East,Industrial Pump X200,24,1213.03,Lina
+SO-10359,2026-09-25,Evergreen Farms,South,Control Unit C1,4,2253.11,Tom
+SO-10360,2026-09-25,Juno Textiles,North,Control Unit C1,25,2579.01,Lina
+SO-10361,2026-09-26,Juno Textiles,North,Valve Kit V5,22,164.99,Sara
+SO-10362,2026-09-26,Helix Pharma,West,Filter F8,21,63.15,Sara
+SO-10363,2026-09-27,Acme Manufacturing,North,Valve Kit V5,14,189.88,Sara
+SO-10364,2026-09-27,Cobalt Mining,West,Sensor Pack S3,10,425.22,Ken
+SO-10365,2026-09-28,Granite Builders,East,Valve Kit V5,2,173.47,Lina
+SO-10366,2026-09-28,Juno Textiles,North,Hose Set H10,2,89.96,Sara
+SO-10367,2026-09-28,Granite Builders,East,Industrial Pump X200,19,1246.97,Lina
+SO-10368,2026-09-28,Borealis Foods,North,Control Unit C1,1,2589.98,Tom
+SO-10369,2026-09-28,Granite Builders,East,Control Unit C1,18,2301.02,Lina
+SO-10370,2026-09-28,Cobalt Mining,West,Valve Kit V5,21,162.56,Sara
+SO-10371,2026-09-29,Borealis Foods,North,Filter F8,3,56.62,Sara
+SO-10372,2026-09-29,Helix Pharma,West,Valve Kit V5,1,171.92,Tom
+SO-10373,2026-09-30,Cobalt Mining,West,Filter F8,2,58.39,Tom
+SO-10374,2026-09-30,Borealis Foods,North,Filter F8,10,61.54,Lina
+SO-10375,2026-09-30,Evergreen Farms,South,Control Unit C1,2,2608.61,Sara
+SO-10376,2026-09-30,Acme Manufacturing,North,Industrial Pump X200,21,1244.79,Sara
+SO-10377,2026-09-30,Evergreen Farms,South,Control Unit C1,10,2614.72,Tom
+SO-10378,2026-09-30,Juno Textiles,North,Control Unit C1,2,2408.14,Lina
+SO-10379,2026-09-30,Cobalt Mining,West,Control Unit C1,5,2733.18,Sara
+SO-10380,2026-09-30,Cobalt Mining,West,Sensor Pack S3,21,445.36,Lina
+SO-10381,2026-09-30,Helix Pharma,West,Control Unit C1,9,2642.31,Ken
+SO-10382,2026-10-01,Acme Manufacturing,North,Sensor Pack S3,20,459.81,Ken
+SO-10383,2026-10-01,Acme Manufacturing,North,Hose Set H10,5,91.82,Ken
+SO-10384,2026-10-01,Granite Builders,East,Hose Set H10,8,87.78,Lina
+SO-10385,2026-10-01,Delta Logistics,South,Hose Set H10,15,86.1,Sara
+SO-10386,2026-10-01,Evergreen Farms,South,Sensor Pack S3,9,413.49,Sara
+SO-10387,2026-10-01,Cobalt Mining,West,Sensor Pack S3,19,390.35,Lina
+SO-10388,2026-10-02,Borealis Foods,North,Hose Set H10,18,90.97,Lina
+SO-10389,2026-10-02,Delta Logistics,South,Valve Kit V5,10,183.85,Lina
+SO-10390,2026-10-02,Delta Logistics,South,Control Unit C1,9,2543.19,Sara
+SO-10391,2026-10-02,Helix Pharma,West,Control Unit C1,18,2293.85,Ken
+SO-10392,2026-10-02,Delta Logistics,South,Industrial Pump X200,13,1219.1,Ken
+SO-10393,2026-10-02,Fulton Steel,East,Hose Set H10,16,90.11,Tom
+SO-10394,2026-10-02,Delta Logistics,South,Valve Kit V5,7,165.32,Ken
+SO-10395,2026-10-03,Juno Textiles,North,Hose Set H10,12,88.24,Tom
+SO-10396,2026-10-05,Fulton Steel,East,Control Unit C1,4,2435.83,Lina
+SO-10397,2026-10-05,Cobalt Mining,West,Industrial Pump X200,11,1223.33,Ken
+SO-10398,2026-10-06,Juno Textiles,North,Hose Set H10,1,82.69,Tom
+SO-10399,2026-10-06,Helix Pharma,West,Hose Set H10,19,91.21,Ken
+SO-10400,2026-10-06,Granite Builders,East,Sensor Pack S3,4,457.51,Tom
+SO-10401,2026-10-06,Acme Manufacturing,North,Sensor Pack S3,11,394.88,Tom
+SO-10402,2026-10-06,Borealis Foods,North,Control Unit C1,1,2275.5,Ken
+SO-10403,2026-10-06,Helix Pharma,West,Filter F8,16,65.37,Sara
+SO-10404,2026-10-07,Borealis Foods,North,Industrial Pump X200,9,1156.49,Tom
+SO-10405,2026-10-07,Borealis Foods,North,Filter F8,22,60.08,Tom
+SO-10406,2026-10-07,Cobalt Mining,West,Control Unit C1,12,2732.88,Tom
+SO-10407,2026-10-07,Acme Manufacturing,North,Valve Kit V5,9,195.88,Sara
+SO-10408,2026-10-07,Acme Manufacturing,North,Hose Set H10,2,85.64,Lina
+SO-10409,2026-10-07,Borealis Foods,North,Industrial Pump X200,5,1156.24,Sara
+SO-10410,2026-10-07,Evergreen Farms,South,Valve Kit V5,19,183.29,Sara
+SO-10411,2026-10-07,Fulton Steel,East,Control Unit C1,12,2378.51,Sara
+SO-10412,2026-10-08,Granite Builders,East,Control Unit C1,6,2470.69,Tom
+SO-10413,2026-10-08,Acme Manufacturing,North,Filter F8,15,62.61,Tom
+SO-10414,2026-10-08,Cobalt Mining,West,Industrial Pump X200,8,1098.67,Ken
+SO-10415,2026-10-08,Cobalt Mining,West,Filter F8,25,59.37,Sara
+SO-10416,2026-10-08,Acme Manufacturing,North,Control Unit C1,21,2287.58,Ken
+SO-10417,2026-10-08,Delta Logistics,South,Sensor Pack S3,16,387.71,Ken
+SO-10418,2026-10-08,Fulton Steel,East,Valve Kit V5,8,188.5,Tom
+SO-10419,2026-10-09,Cobalt Mining,West,Hose Set H10,15,96.67,Ken
+SO-10420,2026-10-09,Granite Builders,East,Control Unit C1,8,2327.84,Ken
+SO-10421,2026-10-09,Evergreen Farms,South,Hose Set H10,11,95.47,Ken
+SO-10422,2026-10-09,Borealis Foods,North,Control Unit C1,11,2478.09,Lina
+SO-10423,2026-10-09,Cobalt Mining,West,Industrial Pump X200,17,1093.64,Tom
+SO-10424,2026-10-09,Helix Pharma,West,Hose Set H10,10,83.15,Tom
+SO-10425,2026-10-09,Granite Builders,East,Sensor Pack S3,9,461.84,Tom
+SO-10426,2026-10-09,Granite Builders,East,Industrial Pump X200,10,1179.75,Tom
+SO-10427,2026-10-09,Evergreen Farms,South,Industrial Pump X200,5,1314.87,Sara
+SO-10428,2026-10-10,Fulton Steel,East,Hose Set H10,17,83.52,Sara
+SO-10429,2026-10-11,Cobalt Mining,West,Sensor Pack S3,12,414.56,Lina
+SO-10430,2026-10-11,Evergreen Farms,South,Valve Kit V5,19,168.5,Tom
+SO-10431,2026-10-12,Cobalt Mining,West,Filter F8,7,61.21,Sara
+SO-10432,2026-10-12,Helix Pharma,West,Hose Set H10,25,85.93,Tom
+SO-10433,2026-10-12,Juno Textiles,North,Valve Kit V5,22,187.48,Tom
+SO-10434,2026-10-12,Evergreen Farms,South,Hose Set H10,7,81.18,Lina
+SO-10435,2026-10-12,Acme Manufacturing,North,Filter F8,17,63.73,Ken
+SO-10436,2026-10-13,Helix Pharma,West,Filter F8,3,54.19,Lina
+SO-10437,2026-10-13,Evergreen Farms,South,Valve Kit V5,8,168.7,Ken
+SO-10438,2026-10-13,Cobalt Mining,West,Industrial Pump X200,23,1169.08,Sara
+SO-10439,2026-10-13,Iris Energy,West,Sensor Pack S3,15,459.37,Sara
+SO-10440,2026-10-13,Fulton Steel,East,Industrial Pump X200,23,1138.73,Ken
+SO-10441,2026-10-13,Granite Builders,East,Filter F8,19,63.02,Sara
+SO-10442,2026-10-14,Helix Pharma,West,Industrial Pump X200,15,1203.2,Tom
+SO-10443,2026-10-14,Delta Logistics,South,Industrial Pump X200,3,1133.69,Tom
+SO-10444,2026-10-14,Borealis Foods,North,Valve Kit V5,10,171.02,Sara
+SO-10445,2026-10-14,Borealis Foods,North,Industrial Pump X200,23,1257.3,Ken
+SO-10446,2026-10-14,Juno Textiles,North,Industrial Pump X200,21,1218.36,Tom
+SO-10447,2026-10-14,Helix Pharma,West,Filter F8,4,58.21,Sara
+SO-10448,2026-10-15,Evergreen Farms,South,Industrial Pump X200,4,1191.56,Ken
+SO-10449,2026-10-15,Borealis Foods,North,Industrial Pump X200,4,1177.36,Tom
+SO-10450,2026-10-15,Juno Textiles,North,Hose Set H10,8,96.5,Tom
+SO-10451,2026-10-15,Juno Textiles,North,Filter F8,15,62.96,Tom
+SO-10452,2026-10-16,Granite Builders,East,Filter F8,23,59.05,Sara
+SO-10453,2026-10-16,Acme Manufacturing,North,Control Unit C1,25,2431.63,Lina
